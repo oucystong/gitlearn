@@ -14,3 +14,6 @@ Git has a mutable index called stage.
 
 Git first modify.
 
+
+Git secong modify.
+
