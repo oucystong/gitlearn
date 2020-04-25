@@ -1,1 +1,2 @@
 hello i am the tongbu file!  please tramsfer me!
+Creating a new branch is quick AND simple.
